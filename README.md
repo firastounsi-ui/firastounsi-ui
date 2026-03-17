@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Firas 👋
 
-<!--
-**firastounsi-ui/firastounsi-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student (B.Sc.) at Heinrich-Heine-Universität Düsseldorf.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in backend development and software engineering
+- Experience with Java, Spring Boot and relational databases
+- Currently looking for a Werkstudent position in software development
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- SQL / PostgreSQL
+- Git
+- Docker
+- Linux
+
+## Projects
+
+### Thesis Supervisor Finder
+
+Backend web application helping students find supervisors for their bachelor thesis.
+
+Tech:
+Java, Spring Boot, PostgreSQL, REST APIs, GitHub OAuth
+
+Repository:
+https://github.com/firastounsi-ui/thesis-supervisor-finder
