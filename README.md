@@ -33,5 +33,6 @@ https://github.com/firastounsi-ui/thesis-supervisor-finder
 Backend REST API for managing users and tasks.
 
 Tech: Java, Spring Boot, PostgreSQL, Flyway, Docker
+
 Repository :
 https://github.com/firastounsi-ui/task-management-api
