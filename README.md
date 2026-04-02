@@ -28,3 +28,10 @@ Java, Spring Boot, PostgreSQL, REST APIs, GitHub OAuth
 
 Repository:
 https://github.com/firastounsi-ui/thesis-supervisor-finder
+### Task Management Api
+
+Backend REST API for managing users and tasks.
+
+Tech: Java, Spring Boot, PostgreSQL, Flyway, Docker
+Repository :
+https://github.com/firastounsi-ui/task-management-api
