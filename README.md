@@ -4,9 +4,10 @@ Computer Science student (B.Sc.) at Heinrich-Heine-Universität Düsseldorf.
 
 ## About me
 
-- Interested in backend development and software engineering
-- Experience with Java, Spring Boot and relational databases
-- Currently looking for a Werkstudent position in software development
+• Computer Science student interested in backend development and AI-powered applications  
+• Experience with Java, Spring Boot, FastAPI, and REST APIs  
+• Built and deployed AI-powered web applications  
+• Currently looking for a Werkstudent position in software development
 
 ## Tech Stack
 
@@ -23,8 +24,7 @@ Computer Science student (B.Sc.) at Heinrich-Heine-Universität Düsseldorf.
 
 Backend web application helping students find supervisors for their bachelor thesis.
 
-Tech:
-Java, Spring Boot, PostgreSQL, REST APIs, GitHub OAuth
+Tech: Java, Spring Boot, PostgreSQL, REST APIs, GitHub OAuth
 
 Repository:
 https://github.com/firastounsi-ui/thesis-supervisor-finder
@@ -36,3 +36,13 @@ Tech: Java, Spring Boot, PostgreSQL, Flyway, Docker
 
 Repository :
 https://github.com/firastounsi-ui/task-management-api
+
+
+### AI Resume Analyzer
+
+Full-stack web app that analyzes resumes using AI and provides structured feedback including strengths, weaknesses, suggestions, and a job match score.
+Tech: Python, FastAPI, JavaScript, Bootstrap, OpenAI API
+Repository :
+https://github.com/firastounsi-ui/ai-resume-analyzer
+Live Demo:
+https://ai-resume-analyzer-ckb1.onrender.com
