@@ -43,6 +43,8 @@ https://github.com/firastounsi-ui/task-management-api
 Full-stack web app that analyzes resumes using AI and provides structured feedback including strengths, weaknesses, suggestions, and a job match score.
 Tech: Python, FastAPI, JavaScript, Bootstrap, OpenAI API
 Repository :
+
 https://github.com/firastounsi-ui/ai-resume-analyzer
 Live Demo:
+
 https://ai-resume-analyzer-ckb1.onrender.com
