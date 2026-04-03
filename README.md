@@ -6,7 +6,7 @@ Computer Science student (B.Sc.) at Heinrich-Heine-Universität Düsseldorf.
 
 • Computer Science student interested in backend development and AI-powered applications  
 • Experience with Java, Spring Boot, FastAPI, and REST APIs  
-• Built and deployed AI-powered web applications  
+• Built and deployed full-stack web applications with AI integration  
 • Currently looking for a Werkstudent position in software development
 
 ## Tech Stack
