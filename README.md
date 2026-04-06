@@ -45,6 +45,7 @@ Tech: Python, FastAPI, JavaScript, Bootstrap, OpenAI API
 Repository :
 
 https://github.com/firastounsi-ui/ai-resume-analyzer
+
 Live Demo:
 
 https://ai-resume-analyzer-ckb1.onrender.com
